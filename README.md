@@ -1,6 +1,6 @@
 ## Creating a CRUD API using NestJS 10 and MongoDB (Mongoose)
 
-[NestJS Crud]([https://github.com/nestjs/nest](https://jsdev.space/nestjs-crud/) tutorial.
+[NestJS Crud](https://jsdev.space/nestjs-crud/) tutorial.
 
 ## Installation
 
